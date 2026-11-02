@@ -1,0 +1,17 @@
+ERA DIGITAL — sitio web
+
+Archivos:
+- index.html: estructura y contenido.
+- styles.css: diseño adaptable a celulares, tabletas y computadores.
+- script.js: menú móvil y año automático.
+- assets/logo-era-digital.jpeg: logo proporcionado.
+
+Cómo probar:
+1. Descomprime el archivo ZIP.
+2. Abre index.html en tu navegador.
+3. Para publicarlo, puedes subir estos archivos a GitHub Pages, Netlify o un hosting con dominio.
+
+Antes de publicar:
+- Verifica el correo: se escribió exactamente como lo enviaste (edigsonmanueñ@gmail.com), pero la letra ñ puede no ser admitida por algunos servicios de correo.
+- Confirma que el video de YouTube sea el correcto y que permita inserción.
+- La página no incluye sistema de pagos ni formularios con base de datos; los botones de cotización abren WhatsApp.
